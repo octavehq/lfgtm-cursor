@@ -1,0 +1,17 @@
+{
+  "name": "lfgtm",
+  "owner": {
+    "name": "Octave"
+  },
+  "metadata": {
+    "description": "Official Octave plugins — GTM knowledge base integration for positioning, research, content generation, and sales enablement"
+  },
+  "plugins": [
+    {
+      "name": "octave",
+      "source": "./",
+      "description": "Access Octave's GTM knowledge base for positioning, research, content generation, and sales enablement",
+      "version": "1.11.0"
+    }
+  ]
+}
