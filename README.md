@@ -34,6 +34,7 @@ Use any name starting with `octave-`. Skills detect the Octave server from the a
 
 - **Skills** (`/octave:research`, `/octave:library`, `/octave:generate`, `/octave:battlecard`, …) — the full upstream skill set, invoked the same way as in Claude Code.
 - **Agents** (`octave-assistant`, `pmm-strategist`, `sdr-coach`, `revenue-strategist`) — Octave's specialist GTM personas.
-- **Commands** — multi-step GTM playbooks (account-based research, competitive deal prep, full outbound pipeline, …) adapted from the upstream workflows.
+- **Workflows** — multi-step GTM playbooks (account-based research, competitive deal prep, full outbound pipeline, …) run via `/octave:workflow`.
+- **Commands** — one shortcut per workflow, so each playbook is also directly invocable as a command.
 
 See the [upstream README](https://github.com/octavehq/lfgtm#skills) for full descriptions.
