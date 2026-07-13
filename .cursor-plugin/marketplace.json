@@ -12,12 +12,6 @@
       "source": "./",
       "description": "Access Octave's GTM knowledge base for positioning, research, content generation, and sales enablement",
       "version": "1.15.0"
-    },
-    {
-      "name": "octave-mcp",
-      "source": "./",
-      "description": "Credential-less declaration of the Octave MCP server — pair with an externally managed credential (e.g. a Claude Tag access bundle's Bearer API key)",
-      "version": "1.0.0"
     }
   ]
 }
