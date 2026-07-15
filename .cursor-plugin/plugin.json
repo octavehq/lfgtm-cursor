@@ -1,6 +1,6 @@
 {
   "name": "octave",
-  "version": "1.20.0",
+  "version": "1.21.0",
   "description": "Octave GTM knowledge base integration for Cursor — grounded access to personas, Motions, messaging, and positioning as skills, agents, and commands.",
   "author": {
     "name": "Octave"
