@@ -2,7 +2,7 @@
 
 > Generated from [octavehq/lfgtm](https://github.com/octavehq/lfgtm). Do not edit directly — changes will be overwritten. File issues and PRs on the upstream repo.
 
-GTM knowledge base integration for [Cursor](https://cursor.com). Provides grounded access to your Octave personas, Motions, messaging, positioning, and more — as skills, agents, and commands.
+GTM knowledge base integration for [Cursor](https://cursor.com). Provides grounded access to your Octave personas, Motions, messaging, positioning, and more — as skills and agents.
 
 ## Install
 
@@ -32,9 +32,7 @@ Use any name starting with `octave-`. Skills detect the Octave server from the a
 
 ## What's included
 
-- **Skills** (`/octave:research`, `/octave:library`, `/octave:generate`, `/octave:battlecard`, …) — the full upstream skill set, invoked the same way as in Claude Code.
+- **Skills** (`/octave:research`, `/octave:library`, `/octave:generate`, `/octave:battlecard-doc`, …) — the full upstream skill set, invoked the same way as in Claude Code.
 - **Agents** (`octave-assistant`, `pmm-strategist`, `sdr-coach`, `revenue-strategist`, `asset-manager`) — Octave's specialist GTM personas.
-- **Workflows** — multi-step GTM playbooks (account-based research, competitive deal prep, full outbound pipeline, …) run via `/octave:workflow`.
-- **Commands** — one shortcut per workflow, so each playbook is also directly invocable as a command.
 
 See the [upstream README](https://github.com/octavehq/lfgtm#skills) for full descriptions.
