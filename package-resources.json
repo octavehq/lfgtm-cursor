@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": "2.9.0",
-  "sourceCommit": "05181cd3f69db95c896f6784521eaba7d0d729c9",
+  "sourceCommit": "7a5fac15434e2f7db3fb51d6ee46eee79e91bfff",
   "sourceDirty": false,
   "skillPaths": {
     "skills/abm": "skills/abm",
@@ -28,6 +28,7 @@
     "skills/product-launch": "skills/product-launch",
     "skills/proposal": "skills/proposal",
     "skills/prospector": "skills/prospector",
+    "skills/public-changelog": "skills/public-changelog",
     "skills/qual-doctor": "skills/qual-doctor",
     "skills/research": "skills/research",
     "skills/signals": "skills/signals",
