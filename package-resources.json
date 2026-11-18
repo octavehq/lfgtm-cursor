@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "2.21.0",
-  "sourceCommit": "4808a1dd1c2cc111fb9e4e8582d9710335c00c4a",
+  "version": "2.22.1",
+  "sourceCommit": "9149b56274ee504d664bcaefa459b2921cac13b2",
   "sourceDirty": false,
   "skillPaths": {
     "skills/abm": "skills/abm",
@@ -15,11 +15,13 @@
     "skills/deal-coach": "skills/deal-coach",
     "skills/deck": "skills/deck",
     "skills/digest": "skills/digest",
+    "skills/document": "skills/document",
     "skills/generate": "skills/generate",
     "skills/get-brand-components": "skills/get-brand-components",
     "skills/icp-refine": "skills/icp-refine",
     "skills/insights": "skills/insights",
     "skills/library": "skills/library",
+    "skills/magazine": "skills/magazine",
     "skills/meeting-prep": "skills/meeting-prep",
     "skills/microsite": "skills/microsite",
     "skills/one-pager": "skills/one-pager",
